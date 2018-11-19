@@ -1,0 +1,28 @@
+Drill report for C:/Users/zielke/Documents/KiCad/Projects/ArduDisFace/layout/GrafikDisplay_K0108_V2.kicad_pcb
+Created on 19.11.2018 10:01:18
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  Top                       front
+    L2 :  Bottom                    back
+
+
+Drill file 'GrafikDisplay_K0108_V2-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0,50mm  0,020"  (60 holes)
+    T2  0,60mm  0,024"  (23 holes)
+    T3  0,80mm  0,031"  (20 holes)
+    T4  0,90mm  0,035"  (3 holes)
+    T5  1,00mm  0,039"  (47 holes)
+
+    Total plated holes count 153
+
+
+Drill file 'GrafikDisplay_K0108_V2-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  2,00mm  0,079"  (1 hole)
+    T2  2,50mm  0,098"  (4 holes)
+
+    Total unplated holes count 5
