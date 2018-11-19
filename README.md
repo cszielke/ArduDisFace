@@ -4,6 +4,6 @@ An Arduino compatible display interface with I2C, SPI and TTY/RS232 for Arduino 
 
 ![ArduDisFace board](./layout/doc/image/Front-left.png "ArduDisFace board")
 
-![ArduDisFace scheet](./layout/doc/ArduDisFace_scheet.svg "ArduDisFace scheet")
+![ArduDisFace scheet](./layout/doc/ArduDisFace_sheet.svg "ArduDisFace scheet")
 
 Layout is done in KiCad 5.0.0
